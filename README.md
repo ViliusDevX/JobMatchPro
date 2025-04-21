@@ -1,13 +1,31 @@
-# JobMatchPro
-This is my personal Python app development project. Sadly at this moment i don't have the source code, however if i will find it, i will definetely upload it.
+📱 JobMatchPro
 
-This project started as my ItFightClub Python learning course (https://itfightclub.lt/) final project, i've put a lot of time and some money into this app.
+JobMatchPro is a personal app I developed using Python and the KivyMD library. It began as my final project for the ITFightClub Python course, and I invested a lot of time — and even a bit of money — into building it.
 
+While I currently don’t have the source code available, I plan to upload it once I recover it.
 
-This app uses Python KivyMD library. 
+🔧 How it Works
 
-When opening the app, user sees 21 question with 3 possible answer options (e.g. "What motivates you the most in a job?" 1. "Helping others", 2. "Creativity and innovation", 3. "Financial stability" etc.), when user selects all answers, he presses "Submit" button, it sends all user's answers to Simple ChatGPT API (https://rapidapi.com/LightningDev/api/simple-chatgpt-api) with a prompt asking to offer 10 most suitable job positions, salary, Future-proof (is it likely to be replaced by AI) and best countries for that job. 
+Upon launching the app, users are presented with 21 multiple-choice questions designed to evaluate their personality, preferences, and career motivations.
+For example:
+“What motivates you the most in a job?”
 
-It then depicts a pop-up with answer from AI in more readable template.
+  Helping others
+
+  Creativity and innovation
+
+  Financial stability
+
+Once all questions are answered, users tap the "Submit" button. The app then sends the response data to the Simple ChatGPT API (https://rapidapi.com/LightningDev/api/simple-chatgpt-api), along with a prompt asking it to:
+
+  Suggest 10 suitable career paths
+
+  Include average salary info
+
+  Evaluate how "future-proof" each job is (AI risk level)
+
+  Recommend the best countries for each role
+
+The AI response is then displayed in a clean and readable pop-up format.
 
 https://drive.google.com/drive/folders/1f9Jn9HwBntY5zIhQpMjWGIFCGvJs6h5X?usp=sharing

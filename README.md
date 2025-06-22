@@ -10,11 +10,11 @@ Upon launching the app, users are presented with 21 multiple-choice questions de
 For example:
 “What motivates you the most in a job?”
 
-  Helping others
+  1. "Helping others"
 
-  Creativity and innovation
+  2. "Creativity and innovation"
 
-  Financial stability
+  3. "Financial stability"
 
 Once all questions are answered, users tap the "Submit" button. The app then sends the response data to the Simple ChatGPT API (https://rapidapi.com/LightningDev/api/simple-chatgpt-api), along with a prompt asking it to:
 

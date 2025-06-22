@@ -24,7 +24,7 @@ Once all questions are answered, users tap the "Submit" button. The app then sen
 
   Evaluate how "future-proof" each job is (AI replacement risk level)
 
-  Recommend the best countries for each role
+  Recommend the best countries for each job
 
 The AI response is then displayed in a clean and readable pop-up format.
 

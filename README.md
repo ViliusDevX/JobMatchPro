@@ -28,4 +28,6 @@ Once all questions are answered, users tap the "Submit" button. The app then sen
 
 The AI response is then displayed in a clean and readable pop-up format.
 
+
+Working APK file:
 https://drive.google.com/drive/folders/1f9Jn9HwBntY5zIhQpMjWGIFCGvJs6h5X?usp=sharing

@@ -22,7 +22,7 @@ Once all questions are answered, users tap the "Submit" button. The app then sen
 
   Include average salary info
 
-  Evaluate how "future-proof" each job is (AI risk level)
+  Evaluate how "future-proof" each job is (AI replacement risk level)
 
   Recommend the best countries for each role
 

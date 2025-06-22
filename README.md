@@ -1,6 +1,6 @@
 📱 JobMatchPro
 
-JobMatchPro is a personal app I developed using Python and the KivyMD library. It began as my final project for the ITFightClub Python course, and I invested a lot of time — and even a bit of money — into building it.
+JobMatchPro is a personal app I developed using Python and the KivyMD library. It began as my final project for the ITFightClub Python course, and I invested a lot of time and money into building it.
 
 While I currently don’t have the source code available, I plan to upload it once I recover it.
 
